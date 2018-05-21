@@ -31,5 +31,7 @@ compileTestKotlin {
 
 sourceSets {
     main.java.srcDirs += 'src/main/kotlin'
+    main.java.srcDirs += 'src/main/java'
     test.java.srcDirs += 'src/test/kotlin'
+    test.java.srcDirs += 'src/test/java'
 }
