@@ -1,4 +1,4 @@
-package org.kotlinlang.kt_sample.p05
+package org.kotlinlang.ktsample.p05
 
 class Greeter(private val name: String) {
     fun greet() {
@@ -7,6 +7,6 @@ class Greeter(private val name: String) {
 }
 
 fun main(args: Array<String>) {
-    val g = Greeter(args[0]).greet()
+    Greeter(args[0]).greet()
 }
 

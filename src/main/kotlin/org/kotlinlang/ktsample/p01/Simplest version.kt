@@ -1,4 +1,4 @@
-package org.kotlinlang.kt_sample.p01
+package org.kotlinlang.ktsample.p01
 
 fun main(args: Array<String>) {
     println("Hello, world!")

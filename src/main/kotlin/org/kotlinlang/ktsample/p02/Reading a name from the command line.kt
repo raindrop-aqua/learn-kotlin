@@ -1,4 +1,4 @@
-package org.kotlinlang.kt_sample.p02
+package org.kotlinlang.ktsample.p02
 
 fun main(args: Array<String>) {
     if (args.size == 0) {

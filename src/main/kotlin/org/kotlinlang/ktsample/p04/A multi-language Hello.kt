@@ -1,4 +1,4 @@
-package org.kotlinlang.kt_sample.p04
+package org.kotlinlang.ktsample.p04
 
 fun main(args: Array<String>) {
     val language = if (args.size == 0) "EN" else args[0]
