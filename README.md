@@ -1,9 +1,9 @@
 # learn-kotlin
 kotlinを学びます
 
-## p01
+## org.kotlinlang.java_sample.p01
 「Hello kotlin」をコンソールに表示する。
 
-## p02
+## org.kotlinlang.java_sample.p02
 
 
