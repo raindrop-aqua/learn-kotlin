@@ -1,4 +1,4 @@
-package org.kotlinlang.java_sample.p05;
+package org.kotlinlang.java_sample.s1_helloworld.p05;
 
 public class Exp05 {
     public static void main(String[] args) {

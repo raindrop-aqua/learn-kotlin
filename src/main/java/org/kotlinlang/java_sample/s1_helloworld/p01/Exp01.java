@@ -1,4 +1,4 @@
-package org.kotlinlang.ktsample.p01;
+package org.kotlinlang.ktsample.s1helloworld.p01;
 
 public class Exp01 {
     public static void main(String[] args) {

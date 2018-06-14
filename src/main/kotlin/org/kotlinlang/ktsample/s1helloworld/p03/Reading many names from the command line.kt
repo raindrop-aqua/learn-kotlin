@@ -1,4 +1,4 @@
-package org.kotlinlang.ktsample.p03
+package org.kotlinlang.ktsample.s1helloworld.p03
 
 fun main(args: Array<String>) {
     for (name in args)

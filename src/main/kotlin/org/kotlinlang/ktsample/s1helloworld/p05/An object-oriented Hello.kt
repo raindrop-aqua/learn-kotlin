@@ -1,4 +1,4 @@
-package org.kotlinlang.ktsample.p05
+package org.kotlinlang.ktsample.s1helloworld.p05
 
 class Greeter(private val name: String) {
     fun greet() {
