@@ -1,4 +1,4 @@
-package org.kotlinlang.ktsample.s1helloworld.p04;
+package org.kotlinlang.java_sample.s1_helloworld.p04;
 
 public class Exp04 {
     public static void main(String[] args) {
@@ -14,7 +14,8 @@ public class Exp04 {
                 System.out.println("Ciao!");
                 break;
             default:
-                System.out.println(String.format("Sorry, I can't greet you in %s yet!", language));
+                String template = "Sorry, I can't greet you in %s yet!";
+                System.out.println(String.format(template, language));
                 break;
         }
     }
